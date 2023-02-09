@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maciej
-- 👀 I am interested in working as a Frontend Developer
-- 🌱 I am currently learning Angular and Typescript
+- 👀 I am working as a Early Mid Angular Developer and Mid Flutter Developer
+- 🌱 I am currently learning Angular, Typescript and Flutter
 - 📫 My portfolio https://maciejj1.github.io/New-Portfolio/
 
 <!---
