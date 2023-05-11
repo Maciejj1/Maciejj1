@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maciej
 - 👀 I am working as a Early Mid Angular Developer and Mid Flutter Developer
 - 🌱 I am currently learning Angular, Typescript and Flutter
-- 📫 My portfolio - work in progress
+- 📫 My portfolio - (https://maciejwawryszuk.pl)
 
 <!---
 Maciejj1/Maciejj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
