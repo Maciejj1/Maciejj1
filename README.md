@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejj1&label=Profile%20views&color=0e75b6&style=flat" alt="maciejj1" /> </p>
 
-- 🔭 I’m currently working on **MySaving**
+- 👯 I’m looking for Job? **Yes**
 
-- 🌱 I’m currently learning **Get_it,Freezed,Riverpod**
+- 🔭 I’m currently working on Project: **MySaving**
 
-- 👯 I’m looking Job? **Yes**
+- 🌱 I’m currently learning **Get_it,Freezed,Riverpod,Provider**
 
-- 👨‍💻 All of my projects are available at [https://maciejwawryszuk.pl/home](https://maciejwawryszuk.pl/home)
+- 👨‍💻 All of my projects are available at [https://maciejwawryszuk.pl](https://maciejwawryszuk.pl)
 
 - 💬 Ask me about **Flutter,Angular,Typescript**
 
