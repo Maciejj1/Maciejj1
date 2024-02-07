@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejj1&label=Profile%20views&color=0e75b6&style=flat" alt="maciejj1" /> </p>
 
-- 🔭 I’m currently working on **MySaving**
-
-- 🌱 I’m currently learning **Get_it,Freezed,Riverpod**
-
 - 👯 I’m looking Job? **Yes**
+  
+- 🔭 I’m currently working on **On developing an app to make money and create my business(Private Project, ask in an interview)**
+
+- 🌱 I’m currently learning **TDD,Mason**
+
+- 🌱 I want to learn in the near future **Kotlin,Android**
 
 - 👨‍💻 My portfolio [https://maciejwawryszuk.pl/home](https://maciejwawryszuk.pl/home)
 
-- 💬 Ask me about **Flutter,Angular,Typescript**
+- 💬 Ask me about **Flutter,Angular,Ionic**
 
-- 📫 How to reach me **maciekwawryszuk@gmail.com**
+- 📫 How to reach me **maciek.w200111@gmail.com**
 
 - ⚡ Fun fact **What can I do? Search in Google😂**
 
