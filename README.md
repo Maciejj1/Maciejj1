@@ -11,7 +11,7 @@
 
 - ⚡ Project Fact **I have all the better projects on private**
 
-- 🌱 I want to learn in the near future **Kotlin,Android**
+- 🌱 I want to learn in the near future **Android**
 
 - 👨‍💻 My portfolio [https://maciejwawryszuk.pl/home](https://maciejwawryszuk.pl/home)
 
