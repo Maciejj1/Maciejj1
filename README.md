@@ -3,23 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejj1&label=Profile%20views&color=0e75b6&style=flat" alt="maciejj1" /> </p>
 
-- 👯 I’m looking Job? **Yes**
+- 👯 I’m looking for a Job? **Yes**
   
-- 🔭 I’m currently working on **On developing an app to make money and create my business(Private Project, ask in an interview)**
+- 🔭 I’m currently working in **Optima Solutions**
 
-- 🌱 I’m currently learning **TDD,Mason**
+- ⚡ Project Fact **I have all the better projects on private, ask on interview**
 
-- ⚡ Project Fact **I have all the better projects on private**
+- 🌱 I want to master in the near future **Flutter & Swift**
 
-- 🌱 I want to learn in the near future **Android**
+- 👨‍💻 My portfolio [https://maciekwawryszuk.pl/home](https://maciekwawryszuk.pl/home)
 
-- 👨‍💻 My portfolio [https://maciejwawryszuk.pl/home](https://maciejwawryszuk.pl/home)
-
-- 💬 Ask me about **Flutter,Angular,Ionic**
+- 💬 Ask me about **Flutter,Swift,Ionic,Android,Angular,Laravel**
 
 - 📫 How to reach me **maciek.w200111@gmail.com**
 
-- ⚡ Fun fact **What can I do? Search in Google😂**
+- ⚡ Fun fact Did you know? The term "bug" in computer programming originated when a moth caused a malfunction in the Harvard Mark II computer in 1947, leading to the concept of "debugging."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
