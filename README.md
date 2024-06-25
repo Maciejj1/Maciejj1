@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejj1&label=Profile%20views&color=0e75b6&style=flat" alt="maciejj1" /> </p>
 
   
-- 🔭 I’m currently working in **Optima Solutions**
+- 🔭 I’m currently working in **New Project**
 
 - ⚡ Project Fact **I have all the better projects on private, ask on interview**
 
