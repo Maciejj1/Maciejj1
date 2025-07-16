@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciej</h1>
 <h3 align="center">A passionate Mobile Developer from Poland</h3>
-https://docs.google.com/document/d/1wcOJ461Kzo1gMrm7kF-B7fMRa1r7vCxP1P4o359CG8g/edit?usp=sharing&usp=embed_facebook
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejj1&label=Profile%20views&color=0e75b6&style=flat" alt="maciejj1" /> </p>
 
   
